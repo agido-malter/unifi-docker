@@ -1,9 +1,8 @@
 # UniFi controller in docker
 
-This repo contains a `Dockerfile` that builds an automatic `docker` image with
-each new commit.
+This repo contains a `Dockerfile` based on the latest Ubuntu LTS version
 
-At each time you initialize the container it uses the actual UniFy Controller version
+At each time you initialize the container it uses the latest UniFy Controller version
 
 ## TL;DR
 
