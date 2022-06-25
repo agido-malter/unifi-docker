@@ -1,6 +1,6 @@
 # UniFi controller in docker
 
-This repo contains a `Dockerfile` based on the latest Ubuntu LTS version
+This repo contains a `Dockerfile` based on the  Ubuntu 20.04 LTS version
 
 At each time you initialize the container it uses the latest UniFy Controller version
 
